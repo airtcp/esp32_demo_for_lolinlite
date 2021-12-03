@@ -9,7 +9,7 @@
 #define DEBUG true
 
 const char* ssid     = "hometb"; // your WiFi's SSID
-const char* password = "a527879262"; // your WiFi's password
+const char* password = "xxxxxx"; // your WiFi's password
 #define TIMEZONE 8 // timezone (GMT = 0, Japan = 9)
 // settings end
 
